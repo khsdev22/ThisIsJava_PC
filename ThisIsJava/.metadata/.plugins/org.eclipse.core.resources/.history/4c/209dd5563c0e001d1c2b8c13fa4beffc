@@ -11,4 +11,5 @@ public class Korean {
 		name = n;
 		ssn = s;
 	}
+
 }
