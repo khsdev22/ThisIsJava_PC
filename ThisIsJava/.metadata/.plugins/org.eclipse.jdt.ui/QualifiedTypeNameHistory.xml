@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="overloading.Car"/>
     <fullyQualifiedTypeName name="method.Calculator"/>
     <fullyQualifiedTypeName name="method.Car"/>
+    <fullyQualifiedTypeName name="static_block.Television"/>
 </qualifiedTypeNameHistroy>
