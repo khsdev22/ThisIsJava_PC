@@ -1,0 +1,10 @@
+package access01;
+
+public class A {
+	
+	// ÇÊµå
+	
+	A a1 = new A(true);
+	
+
+}
