@@ -1,0 +1,9 @@
+//[Airplan.java] super º¯¼ö
+
+package super_method_calling;
+
+public class Airplane {
+	public void land() {
+		
+	}
+}
