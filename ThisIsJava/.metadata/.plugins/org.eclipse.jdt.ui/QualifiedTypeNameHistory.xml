@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="method.Car"/>
     <fullyQualifiedTypeName name="static_block.Television"/>
     <fullyQualifiedTypeName name="final_class.Member"/>
+    <fullyQualifiedTypeName name="protected_acces_01.A"/>
 </qualifiedTypeNameHistroy>
